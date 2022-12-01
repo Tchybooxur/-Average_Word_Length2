@@ -1,0 +1,13 @@
+C:\PROJECTS\AverageWordLength2\AverageWordLength2\bin\Debug\netcoreapp3.1\AverageWordLength2.exe
+C:\PROJECTS\AverageWordLength2\AverageWordLength2\bin\Debug\netcoreapp3.1\AverageWordLength2.deps.json
+C:\PROJECTS\AverageWordLength2\AverageWordLength2\bin\Debug\netcoreapp3.1\AverageWordLength2.runtimeconfig.json
+C:\PROJECTS\AverageWordLength2\AverageWordLength2\bin\Debug\netcoreapp3.1\AverageWordLength2.runtimeconfig.dev.json
+C:\PROJECTS\AverageWordLength2\AverageWordLength2\bin\Debug\netcoreapp3.1\AverageWordLength2.dll
+C:\PROJECTS\AverageWordLength2\AverageWordLength2\bin\Debug\netcoreapp3.1\AverageWordLength2.pdb
+C:\PROJECTS\AverageWordLength2\AverageWordLength2\obj\Debug\netcoreapp3.1\AverageWordLength2.csprojAssemblyReference.cache
+C:\PROJECTS\AverageWordLength2\AverageWordLength2\obj\Debug\netcoreapp3.1\AverageWordLength2.AssemblyInfoInputs.cache
+C:\PROJECTS\AverageWordLength2\AverageWordLength2\obj\Debug\netcoreapp3.1\AverageWordLength2.AssemblyInfo.cs
+C:\PROJECTS\AverageWordLength2\AverageWordLength2\obj\Debug\netcoreapp3.1\AverageWordLength2.csproj.CoreCompileInputs.cache
+C:\PROJECTS\AverageWordLength2\AverageWordLength2\obj\Debug\netcoreapp3.1\AverageWordLength2.dll
+C:\PROJECTS\AverageWordLength2\AverageWordLength2\obj\Debug\netcoreapp3.1\AverageWordLength2.pdb
+C:\PROJECTS\AverageWordLength2\AverageWordLength2\obj\Debug\netcoreapp3.1\AverageWordLength2.genruntimeconfig.cache
